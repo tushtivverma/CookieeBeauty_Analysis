@@ -75,7 +75,7 @@ This analysis has not only highlighted areas of success but also laid the ground
 
 **Power BI Dashboard**: The dashboards created during the analysis are attached below for your reference. They visually present the key insights and findings from the project.
 
-### View the PDF : [View CookieeBEauty Dashboard PDF](CookieeBeuatyAnalysis.pdf)
+### View the PDF : [View CookieeBeauty Dashboard PDF](CookieeBeuatyAnalysis.pdf)
 
 **Python Code**: The code used for data preprocessing and analysis is also available in the attached files for review and reuse.
 Feel free to explore the resources for a deeper understanding of the analysis process and results!
